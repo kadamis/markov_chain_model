@@ -1,2 +1,2 @@
 # markov_chain_model
-MCM
+MCM inspired by web references around stochastic procedures.
